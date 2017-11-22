@@ -1,0 +1,19 @@
+.contenedor{
+  background-image: url(../img/back.jpg);
+}
+
+.enca{
+  color: white;
+}
+
+.prin{
+  background: rgba(#04dd00, 0.46);
+}
+
+h1{
+  color: white;
+}
+
+h3{
+color: rgb(36, 153, 51);
+}
